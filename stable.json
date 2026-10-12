@@ -1,9 +1,9 @@
 {
   "packageName": "pk.cinejoy.tv",
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "apkUrl": "https://github.com/youssefbm2008/cinejoy-tv-updates/releases/download/v1.0.1/CinejoyTV-1.0.1.apk",
-  "sha256": "8a7d94cac23e150644a122894d7606c831b445b4ee16e6c215e328d0f6ba1d17",
-  "releaseNotes": "Adds automatic version checks and guided APK updates for sideloaded installs.",
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "apkUrl": "https://github.com/youssefbm2008/cinejoy-tv-updates/releases/download/v1.0.2/CinejoyTV-1.0.2.apk",
+  "sha256": "dea4947535104b3622b377ab44585cced3f2f6665bea9c6a32e6445d6ad02073",
+  "releaseNotes": "Checks for updates every time the app starts and offers Update or Cancel when a newer version is available.",
   "publishedAt": "2026-10-12"
 }
