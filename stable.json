@@ -1,9 +1,9 @@
 {
   "packageName": "pk.cinejoy.tv",
-  "versionCode": 7,
-  "versionName": "1.0.6",
-  "apkUrl": "https://github.com/youssefbm2008/cinejoy-tv-updates/releases/download/v1.0.6/CinejoyTV-1.0.6.apk",
-  "sha256": "0727080dd7ee0865944753465c58f48cb53c4db3737edaab4c1b30f066676634",
-  "releaseNotes": "Keeps only the global weekly Netflix Top 10 lists for movies and series and clears the old regional cache.",
+  "versionCode": 8,
+  "versionName": "1.0.7",
+  "apkUrl": "https://github.com/youssefbm2008/cinejoy-tv-updates/releases/download/v1.0.7/CinejoyTV-1.0.7.apk",
+  "sha256": "3b6de0de71c64410987902367d110ead5a2e4f1f99ea0aef4ffa64dcfb9650bb",
+  "releaseNotes": "Preserves homepage scroll position and selected card when returning from a title.",
   "publishedAt": "2026-10-13"
 }
