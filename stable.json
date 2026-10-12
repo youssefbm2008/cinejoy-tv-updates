@@ -1,9 +1,9 @@
 {
   "packageName": "pk.cinejoy.tv",
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "apkUrl": "https://github.com/youssefbm2008/cinejoy-tv-updates/releases/download/v1.0.4/CinejoyTV-1.0.4.apk",
-  "sha256": "68ee9f073b7fa195f94ebfbff553e00985cfcdc2ed19eee085ee67e2708b6a5f",
-  "releaseNotes": "Fixes the full-width homepage hero backdrop bleeding past its scrim at the left and bottom edges.",
+  "versionCode": 6,
+  "versionName": "1.0.5",
+  "apkUrl": "https://github.com/youssefbm2008/cinejoy-tv-updates/releases/download/v1.0.5/CinejoyTV-1.0.5.apk",
+  "sha256": "572d558b3d3d39b6f846b29dd42fdd930f044a6ce394985603e389c820b33cf3",
+  "releaseNotes": "Adds weekly TMDB-trending movie and series lists filtered by Netflix availability globally, in France, and in the US.",
   "publishedAt": "2026-10-12"
 }
