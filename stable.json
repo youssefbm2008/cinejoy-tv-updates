@@ -1,9 +1,9 @@
 {
   "packageName": "pk.cinejoy.tv",
-  "versionCode": 9,
-  "versionName": "1.0.8",
-  "apkUrl": "https://github.com/youssefbm2008/cinejoy-tv-updates/releases/download/v1.0.8/CinejoyTV-1.0.8.apk",
-  "sha256": "4e81c6687bc7206ed25a01c13fa7869ae6f0b90110a6d582b11ec2c844ff7bbc",
-  "releaseNotes": "Adds cinematic screen transitions: shared artwork expands into title details, detail content reveals in sequence, and trailer/playback open in full screen. Back returns to the prior screen and restores Home focus.",
+  "versionCode": 10,
+  "versionName": "1.0.9",
+  "apkUrl": "https://github.com/youssefbm2008/cinejoy-tv-updates/releases/download/v1.0.9/CinejoyTV-1.0.9.apk",
+  "sha256": "37c7f041b2f5df81ecec6b10ff112407e3a540c37752ca82b278d88627b6fdf6",
+  "releaseNotes": "Fixes Android TV/Fire TV search submission so the on-screen keyboard closes after Search, Done, Go, or Next while results remain focused.",
   "publishedAt": "2026-10-13"
 }

@@ -1,0 +1,9 @@
+{
+  "packageName": "pk.cinejoy.tv",
+  "versionCode": 10,
+  "versionName": "1.0.9",
+  "apkUrl": "https://github.com/youssefbm2008/cinejoy-tv-updates/releases/download/v1.0.9/CinejoyTV-1.0.9.apk",
+  "sha256": "37c7f041b2f5df81ecec6b10ff112407e3a540c37752ca82b278d88627b6fdf6",
+  "releaseNotes": "Fixes Android TV/Fire TV search submission so the on-screen keyboard closes after Search, Done, Go, or Next while results remain focused.",
+  "publishedAt": "2026-10-13"
+}
