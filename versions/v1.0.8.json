@@ -1,0 +1,9 @@
+{
+  "packageName": "pk.cinejoy.tv",
+  "versionCode": 9,
+  "versionName": "1.0.8",
+  "apkUrl": "https://github.com/youssefbm2008/cinejoy-tv-updates/releases/download/v1.0.8/CinejoyTV-1.0.8.apk",
+  "sha256": "4e81c6687bc7206ed25a01c13fa7869ae6f0b90110a6d582b11ec2c844ff7bbc",
+  "releaseNotes": "Adds cinematic screen transitions: shared artwork expands into title details, detail content reveals in sequence, and trailer/playback open in full screen. Back returns to the prior screen and restores Home focus.",
+  "publishedAt": "2026-10-13"
+}
