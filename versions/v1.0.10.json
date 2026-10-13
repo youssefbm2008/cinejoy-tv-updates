@@ -1,0 +1,9 @@
+{
+  "packageName": "pk.cinejoy.tv",
+  "versionCode": 11,
+  "versionName": "1.0.10",
+  "apkUrl": "https://github.com/youssefbm2008/cinejoy-tv-updates/releases/download/v1.0.10/CinejoyTV-1.0.10.apk",
+  "sha256": "4f11837808e891f91587202af5e136b4d43a48c8178060e5ebe497d16962c9d6",
+  "releaseNotes": "Adds player volume controls for Android system media volume. The displayed level reflects the device stream; fixed-volume outputs remain controlled by the TV or receiver remote.",
+  "publishedAt": "2026-10-13"
+}
