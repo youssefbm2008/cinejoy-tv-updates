@@ -1,9 +1,9 @@
 {
   "packageName": "pk.cinejoy.tv",
-  "versionCode": 11,
-  "versionName": "1.0.10",
-  "apkUrl": "https://github.com/youssefbm2008/cinejoy-tv-updates/releases/download/v1.0.10/CinejoyTV-1.0.10.apk",
-  "sha256": "4f11837808e891f91587202af5e136b4d43a48c8178060e5ebe497d16962c9d6",
-  "releaseNotes": "Adds player volume controls for Android system media volume. The displayed level reflects the device stream; fixed-volume outputs remain controlled by the TV or receiver remote.",
+  "versionCode": 20,
+  "versionName": "1.0.11",
+  "apkUrl": "https://github.com/youssefbm2008/cinejoy-tv-updates/releases/download/v1.0.11/CinejoyTV-1.0.11.apk",
+  "sha256": "be3193e616a0dba45282e60ad2a69fe2454ddaeddbb013c854a84139e6679f2b",
+  "releaseNotes": "Adds Movy backup playback and a Source selector that lists only verified playable sources for the current title. Keeps playback position when switching and stops retries after available sources are exhausted.",
   "publishedAt": "2026-10-13"
 }
