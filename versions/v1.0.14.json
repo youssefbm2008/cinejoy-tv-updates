@@ -1,0 +1,9 @@
+{
+  "packageName": "pk.cinejoy.tv",
+  "versionCode": 23,
+  "versionName": "1.0.14",
+  "apkUrl": "https://github.com/youssefbm2008/cinejoy-tv-updates/releases/download/v1.0.14/CinejoyTV-1.0.14.apk",
+  "sha256": "55f9997d6745b2af4940f2fed6ce5e50c67392c6e1ad21efae1a0edd9cd6b0a6",
+  "releaseNotes": "Fixes named season and part labels such as Lupin Part 3 and Part 4 across episode selection, playback, Resume and Continue Watching while retaining saved episodes and playback positions.",
+  "publishedAt": "2026-10-24"
+}
